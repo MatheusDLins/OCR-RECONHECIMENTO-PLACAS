@@ -22,9 +22,7 @@ Ele faz captura de vídeo via webcam, pré-processa a imagem, recorta uma área 
 ```
 projeto-ocr-placas/
 │── main.py
-│── requirements.txt
 │── README.md
-│── .gitignore
 ```
 
 ---
